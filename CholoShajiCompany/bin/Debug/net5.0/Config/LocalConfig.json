@@ -1,0 +1,12 @@
+{
+  "CloudinarySetting": {
+    "CloudName": "orbitax",
+    "ApiKey": "914487341721995",
+    "ApiSecret": "cfVUnF8MQOVgCdjdSeahjd_4Fx8"
+  },
+  "MongodbDataBaseSetting": {
+    "ConnectionString": "mongodb://localhost:27017"
+  },
+  "Index": "CholoShajiCompany",
+  "DataBaseClient": "MongodbDataBaseClient"
+}

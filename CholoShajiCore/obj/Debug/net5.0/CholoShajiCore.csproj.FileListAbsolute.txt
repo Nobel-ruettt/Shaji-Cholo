@@ -1,0 +1,12 @@
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.AssemblyInfoInputs.cache
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.AssemblyInfo.cs
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.csproj.CoreCompileInputs.cache
+C:\MyFinalPetProject\CholoShajiCore\bin\Debug\net5.0\CholoShajiCore.deps.json
+C:\MyFinalPetProject\CholoShajiCore\bin\Debug\net5.0\CholoShajiCore.dll
+C:\MyFinalPetProject\CholoShajiCore\bin\Debug\net5.0\ref\CholoShajiCore.dll
+C:\MyFinalPetProject\CholoShajiCore\bin\Debug\net5.0\CholoShajiCore.pdb
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.dll
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\ref\CholoShajiCore.dll
+C:\MyFinalPetProject\CholoShajiCore\obj\Debug\net5.0\CholoShajiCore.pdb
+C:\MyFinalPetProject\CholoShajiCore\bin\Debug\net5.0\Config\LocalConfig.json
